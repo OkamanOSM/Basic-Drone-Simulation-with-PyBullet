@@ -1,0 +1,20 @@
+
+GRAVITY = 9.81
+
+DRONE_MASS = 1.2
+
+BODY_LENGTH = 0.20
+BODY_WIDTH = 0.20
+BODY_HEIGHT = 0.05
+
+ARM_LENGTH = 0.18
+ARM_THICKNESS = 0.01
+
+MOTOR_RADIUS = 0.02
+MOTOR_HEIGHT = 0.02
+
+MAX_RPM = 9000
+
+# Basitleştirilmiş motor itki katsayısı.
+# Birimi: N / RPM²
+THRUST_COEFF = 1.5e-7
